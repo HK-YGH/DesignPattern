@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/src/com/czs/factory/abst/BigBusProduct.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/czs/factory/abst/TestAbstractFactory.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/czs/filterchain/SensitiveFilter.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/czs/filterchain/TestFilterChain.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/czs/reflect/ReflectMethod1.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/czs/reflect/note.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/czs/reflect/proxy/CglibProxyExample.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/czs/reflect/proxy/JdkProxyExample.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/czs/reflect/proxy/JdkProxyExample2.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/czs/reflect/proxy/intercepter/IntercepterJdkProxy.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/czs/reflect/proxy/intercepter/MyIntercepter.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/czs/reflect/proxy/intercepter/note.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/czs/reflect/proxy/note.txt" charset="GBK" />
+  </component>
+</project>
